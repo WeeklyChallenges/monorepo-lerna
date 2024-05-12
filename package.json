@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@swc/cli": "^0.3.12",
+    "@swc/core": "^1.5.5",
+    "@swc/helpers": "^0.5.11",
+    "lerna": "^8.1.2"
+  }
+}
