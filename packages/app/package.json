@@ -1,6 +1,6 @@
 {
   "name": "@weekly-challenges-monorepo/app",
-  "version": "0.0.3-alpha.1+eba2068",
+  "version": "0.0.3-alpha.2+c27aafe",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "eba2068f96a2d3762b0def2adb81c862533ececd",
+  "gitHead": "c27aafe665c038e62f3f533e31aefb4c8bb04415",
   "dependencies": {
-    "@weekly-challenges-monorepo/store": "^0.0.3-alpha.1+eba2068"
+    "@weekly-challenges-monorepo/store": "^0.0.3-alpha.2+c27aafe"
   }
 }
