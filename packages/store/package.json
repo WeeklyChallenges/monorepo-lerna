@@ -1,5 +1,5 @@
 {
-  "name": "@osamaths-weekly-challenges-monorepo/store",
+  "name": "@osamaths/weekly-challenge-store",
   "version": "0.0.5",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "a9f6c7e21ac196a84bbcd821c453af3e8cbaaecb"
+  "gitHead": "d1ad620e1ea46b2ca023418a30fb9b0d79468fd1"
 }
