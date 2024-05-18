@@ -1,6 +1,6 @@
 {
   "name": "weekly-challenge-app",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -11,7 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "aec2a33aebb00c4b0d1b19d72424ebb3a622afd9",
-  "dependencies": {
-  }
+  "gitHead": "aec2a33aebb00c4b0d1b19d72424ebb3a622afd9"
 }
