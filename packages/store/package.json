@@ -1,6 +1,6 @@
 {
   "name": "@weekly-challenges-monorepo/store",
-  "version": "0.0.3-alpha.3+c383a67",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "publishConfig": {

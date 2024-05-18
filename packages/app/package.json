@@ -1,6 +1,6 @@
 {
   "name": "@weekly-challenges-monorepo/app",
-  "version": "0.0.3-alpha.3+c383a67",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -13,6 +13,6 @@
   "license": "ISC",
   "gitHead": "c383a678ba7b40d2da5120e2fd65a887dfd971e2",
   "dependencies": {
-    "@weekly-challenges-monorepo/store": "^0.0.3-alpha.3+c383a67"
+    "@weekly-challenges-monorepo/store": "^0.0.3"
   }
 }
