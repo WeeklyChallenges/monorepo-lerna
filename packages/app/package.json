@@ -1,6 +1,6 @@
 {
   "name": "weekly-challenge-app",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -13,6 +13,6 @@
   "license": "ISC",
   "gitHead": "d1ad620e1ea46b2ca023418a30fb9b0d79468fd1",
   "dependencies": {
-    "@osamaths/weekly-challenge-store": "^0.0.1"
+    "@osamaths/weekly-challenge-store": "^0.0.6"
   }
 }
