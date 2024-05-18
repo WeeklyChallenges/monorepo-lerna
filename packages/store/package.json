@@ -1,5 +1,5 @@
 {
-  "name": "weekly-challenge-store",
+  "name": "@osamaths/weekly-challenge-store",
   "version": "0.0.12",
   "description": "",
   "main": "index.js",
