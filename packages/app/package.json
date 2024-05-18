@@ -1,6 +1,6 @@
 {
   "name": "@osamaths-weekly-challenges-monorepo/app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -13,6 +13,6 @@
   "license": "ISC",
   "gitHead": "b5ddd3efa16eebc989412346db87db7d4117494a",
   "dependencies": {
-    "@osamaths-weekly-challenges-monorepo/store": "^0.0.3"
+    "@osamaths-weekly-challenges-monorepo/store": "^0.0.4"
   }
 }
