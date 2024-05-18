@@ -2,6 +2,7 @@
   "name": "root",
   "private": true,
   "type": "module",
+  "license": "MIT",
   "workspaces": [
     "packages/*"
   ],

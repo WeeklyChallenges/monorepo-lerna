@@ -11,7 +11,7 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "b5ddd3efa16eebc989412346db87db7d4117494a",
+  "gitHead": "a9f6c7e21ac196a84bbcd821c453af3e8cbaaecb",
   "dependencies": {
     "@osamaths-weekly-challenges-monorepo/store": "^0.0.4"
   }
