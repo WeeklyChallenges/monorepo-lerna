@@ -1,6 +1,6 @@
 function getStore() {
   return {
-    user: { id: 'osamathsID' },
+    user: { id: 'osamathsID', username: 'osamaths' },
   }
 }
 
