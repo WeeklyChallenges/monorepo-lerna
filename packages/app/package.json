@@ -11,5 +11,8 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "841c88f68eae60dd22f23bce155ac277e60f1fd0"
+  "gitHead": "841c88f68eae60dd22f23bce155ac277e60f1fd0",
+  "dependencies": {
+    "@osamaths/weekly-challenge-store": "^0.0.1"
+  }
 }
